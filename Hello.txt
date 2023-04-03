@@ -5,6 +5,3 @@ Pursuing my B.Tech from Indian Institue of Information Technology Ranchi.
 Currently in 3rd year CSE.
 I am a competitive programmar.
 other than programmin, i am also learning web development.
-
-
-Wanna add it to the main branch.
